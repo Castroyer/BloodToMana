@@ -1,0 +1,9 @@
+Arcane Transfuser is a mod all about little magical knickknacks mostly for my amusement.
+
+The only item in the mod as of now is the Celestial Tick, which is a post moonlord item that allows you to bloodmage. 
+It grants increased damage and mana regen, at the cost of draining HP and making you more susceptable to damage.
+
+More items coming soon
+Planned:
+- Cat slime summons, and post moon lord variants.
+- Bullets with wacky AI
